@@ -1,5 +1,5 @@
 Meta Git Updater
-######
+
 A small bashscript, that can be used to update clones of git repositories
 Usefull as an autoupdater for software cloned from gitlab/github/others
 
