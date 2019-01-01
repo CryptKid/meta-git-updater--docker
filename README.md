@@ -1,7 +1,7 @@
 Meta Git Updater
 
 A small bashscript, that can be used to update clones of git repositories
-Usefull as an autoupdater for software cloned from gitlab/github/others
+Usefull as an autoupdater for software cloned from gitlab/github/other public git servers
 
 Setup:
  * Edit meta-git-updater.sh
