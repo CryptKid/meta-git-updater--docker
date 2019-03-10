@@ -1,4 +1,6 @@
-Meta Git Updater
+# Meta Git Updater Docker Edition
+
+## Work in progress, README wasn't changed yet
 
 A small bashscript, that can be used to update clones of git repositories
 Usefull as an autoupdater for software cloned from gitlab/github/other public git servers
