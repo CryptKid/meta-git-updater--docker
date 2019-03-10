@@ -4,4 +4,5 @@ while true
 do
 	echo "Starting MetaGitUpdater @ $(date)"
 	/Scripts/meta-git-updater.sh
+	sleep $INTERVAL
 done
