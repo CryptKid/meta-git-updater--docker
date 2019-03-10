@@ -2,6 +2,8 @@
 
 ## Work in progress, README wasn't changed yet
 
+[![](https://images.microbadger.com/badges/image/cryptkiddie2/meta-git-updater.svg)](https://microbadger.com/images/cryptkiddie2/meta-git-updater "Get your own image badge on microbadger.com")
+
 A small bashscript, that can be used to update clones of git repositories
 Usefull as an autoupdater for software cloned from gitlab/github/other public git servers
 
